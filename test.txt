@@ -1,3 +1,6 @@
 this is my first text file
 hi bullet
 how r u
+this is second text reply
+hi
+i am wht abt u?
