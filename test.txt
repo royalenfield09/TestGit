@@ -1,1 +1,3 @@
 this is my first text file
+hi bullet
+how r u
